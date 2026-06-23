@@ -81,6 +81,10 @@ An AI-powered recipe recommendation platform that helps users discover recipes f
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christy2005&layout=compact)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Christy2005)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christy2005&theme=github)
+
 ---
 
 ## 📚 Currently Learning
