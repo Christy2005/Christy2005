@@ -20,6 +20,7 @@ Passionate about building web applications, exploring software engineering conce
 - MySQL
 - REST APIs
 - Git & GitHub
+- Machine learning concepts
 
 🎯 Goals for 2026:
 - Strengthen Data Structures & Algorithms
@@ -72,7 +73,8 @@ An AI-powered interview preparation platform that generates interview questions,
 A collaborative task management platform with AI-assisted task planning, progress tracking, and team productivity features.
 
 ### 🍲 Smart pantry
-An AI-powered recipe recommendation platform that helps users discover recipes from available ingredients using text, voice, and image inputs.
+An AI powered recipe recommendation website that generates recipes based on the user input of ingredients as text, voice or image.
+
 ---
 
 ## 📈 GitHub Stats
@@ -80,8 +82,6 @@ An AI-powered recipe recommendation platform that helps users discover recipes f
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Christy2005&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christy2005&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Christy2005)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christy2005&theme=github)
 
