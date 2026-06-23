@@ -13,7 +13,7 @@ Passionate about building web applications, exploring software engineering conce
 
 💻 Interested in Full Stack Web Development and Software Engineering
 
-🌱 Currently learning:
+ Experience with:
 - React.js
 - Node.js
 - Express.js
