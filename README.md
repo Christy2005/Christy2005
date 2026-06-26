@@ -64,10 +64,6 @@ An AI-powered interview preparation platform that generates interview questions,
 
 ### 📋 AI Task Management System
 A collaborative task management platform with AI-assisted task planning, progress tracking, and team productivity features.
-
-### 🍲 Smart pantry
-An AI powered recipe recommendation website that generates recipes based on the user input of ingredients as text, voice or image.
-
 ---
 
 ## 📈 GitHub Stats
