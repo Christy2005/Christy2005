@@ -21,13 +21,6 @@ Passionate about building web applications, exploring software engineering conce
 - REST APIs
 - Git & GitHub
 - Machine learning concepts
-
-🎯 Goals for 2026:
-- Strengthen Data Structures & Algorithms
-- Build industry-level full-stack projects
-- Contribute to Open Source
-- Secure a software development internship
-
 ---
 
 ## 🛠️ Tech Stack
