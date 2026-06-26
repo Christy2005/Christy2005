@@ -77,17 +77,6 @@ An AI powered recipe recommendation website that generates recipes based on the 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christy2005&layout=compact)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christy2005&theme=github)
-
----
-
-## 📚 Currently Learning
-
-- Advanced React
-- Authentication & Authorization
-- System Design Fundamentals
-- Data Structures & Algorithms
-- Cloud Computing
-
 ---
 
 ## 🤝 Connect With Me
