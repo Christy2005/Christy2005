@@ -79,7 +79,6 @@ A collaborative task management platform with AI-assisted task planning, progres
 ## 🤝 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/christy-denees-a962b9347/
-- GitHub: https://github.com/Christy2005
 
 ---
 
